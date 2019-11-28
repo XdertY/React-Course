@@ -1,0 +1,21 @@
+/*.Person {*/
+/*    width:45%;*/
+/*    margin: 16px auto;*/
+/*    border: 1px solid black;*/
+/*    box-shadow: 0 2px 3px grey;*/
+/*    padding: 16px;*/
+/*    text-align: center;*/
+/*}*/
+
+.inputField {
+    margin: 16px auto;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-align: center;
+}
+
+/*const style = {*/
+/*'@media (min-width: 500px)': {*/
+/*    width: '450px'*/
+/*    }*/
+/*};*/
